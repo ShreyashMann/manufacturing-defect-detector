@@ -1,0 +1,8 @@
+path: /Users/shreyashmann/Robotics-project-sprint/NEU-DET.v10i.yolov8
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 6
+names: ['crazing', 'inclusion', 'patches', 'pitted_surface', 'rolled-in_scale', 'scratches']

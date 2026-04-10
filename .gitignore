@@ -1,0 +1,8 @@
+venv/
+runs/
+__pycache__/
+*.pyc
+*.pt
+.DS_Store
+data/
+NEU-DET.v10i.yolov8/
