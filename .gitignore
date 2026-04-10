@@ -6,3 +6,7 @@ __pycache__/
 .DS_Store
 data/
 NEU-DET.v10i.yolov8/
+CLAUDE.md
+day1-tasks.md
+day2-tasks.md
+logbook.md
